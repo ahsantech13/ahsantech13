@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ahsantech13">
-    <img src="https://img.shields.io/badge/GitHub-[your--username]-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-ahsantech13-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/[your-linkedin]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
